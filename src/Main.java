@@ -9,6 +9,12 @@ public class Main {
         System.out.println("Contador = "+x);
     }
 
-        
+    cont = 1;
+    do{
+        System.out.println("contador = "+ cont);
+        cont++;
+    }
+    while(cont<=10);
+
 }
 }
