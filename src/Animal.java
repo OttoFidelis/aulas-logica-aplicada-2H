@@ -9,15 +9,15 @@ public class Animal {
     String tipoPele;
     String corOlhoDireito;
     double defecar;
-
     // Métodos
     public void comer(){
         System.out.println("animal comeu");
     }
-    if (defecar+=1){
-       ;
-
+    public void defecar(){
+        System.out.println("animal defecou");
     }
 
+
+
+
     }
-}
