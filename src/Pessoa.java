@@ -10,7 +10,6 @@ public class Pessoa extends Animal{
     public String falar(String texto){
         return texto;
     }
-
     public void comer(){
         System.out.println("pessoa comeu");
     }

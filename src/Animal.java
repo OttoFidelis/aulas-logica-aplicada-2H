@@ -8,7 +8,7 @@ public class Animal {
     String nome;
     String tipoPele;
     String corOlhoDireito;
-    double defecar;
+    String defecar;
     // Métodos
     public void comer(){
         System.out.println("animal comeu");
