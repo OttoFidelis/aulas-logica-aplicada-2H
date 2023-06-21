@@ -26,7 +26,7 @@ public class Main {
         // Definição de comportamento
         rainha.falar();
         rainha.comer();
-
+//construtor método que constrói o objeto
 
 
     }
