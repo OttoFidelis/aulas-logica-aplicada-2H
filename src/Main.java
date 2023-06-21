@@ -26,8 +26,13 @@ public class Main {
         // Definição de comportamento
         rainha.falar();
         rainha.comer();
-//construtor método que constrói o objeto
 
+        Produto p1 = new Produto(1300.00);
+        Produto p2 = new Produto();
+        p2.setPreco(233.00);
+        Produto p3;
+        p2 = new Produto("Placa de vídeo",1300.00);
+        p3 = new Produto("Placa mãe",2500.00);
 
     }
 }
